@@ -13,7 +13,7 @@ body {
 }
 
 .email {
-  margin: 5px
+  margin: 10px
 }
 
 #button {
@@ -31,6 +31,7 @@ body {
   height: 36px;
   width: 36px;
   float: right;
+
 }
 
 .footer {
